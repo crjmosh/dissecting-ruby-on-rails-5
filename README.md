@@ -1,4 +1,4 @@
-# README
+# Dissecting Ruby On Rails 5 Course Follow-along
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
