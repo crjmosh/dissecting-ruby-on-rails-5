@@ -1,24 +1,22 @@
-# Dissecting Ruby On Rails 5 Course Follow-along
+# Dissecting Ruby on Rails 5 Course Follow-along
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
 
-* System dependencies
+### Code Example
 
-* Configuration
+```ruby
+def learning_markdown
+  puts "this is ruby"
+end
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert('this is javascript');
+```
